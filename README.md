@@ -1,6 +1,6 @@
 **Online-LMS**
 
-📘 Online Learning Management System (LMS)
+**📘 Online Learning Management System (LMS)**
 
 This project is a simple Online Learning Management System built using Java Servlets, JSP, and MySQL.
 It allows educators and students to interact in an online platform:
@@ -9,7 +9,7 @@ Educators can register, log in, and create courses.
 
 Students can register, log in, and enroll in courses to track their learning.
 
-🚀 Features
+**🚀 Features**
 
 User registration & login (for both students and educators)
 
@@ -19,7 +19,7 @@ Course enrollment (by students)
 
 Simple and clean database schema (Students, Courses, Enrollments)
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Java 11
 
@@ -31,7 +31,7 @@ Apache Tomcat (server)
 
 Maven (project build & dependency management)
 
-📂 Project Structure
+**📂 Project Structure**
 
 lms_schema.sql → Database schema (tables for students, courses, enrollments)
 
@@ -41,7 +41,7 @@ src/ → Java source code (Servlets, JSPs, etc.)
 
 webapp/ → JSP pages and frontend resources
 
-⚙️ Prerequisites
+**⚙️ Prerequisites**
 
 Make sure you have installed:
 
@@ -53,7 +53,7 @@ MySQL
 
 Apache Tomcat 8/9
 
-🗄️ Database Setup
+**🗄️ Database Setup**
 
 Open MySQL and create the database:
 
@@ -64,7 +64,7 @@ This will create the students, courses, and enrollments tables.
 
 Update your database username/password in the project (if required).
 
-▶️ Running the Application
+**▶️ Running the Application**
 
 Package the project using Maven:
 
@@ -79,7 +79,7 @@ Open your browser and go to:
 
 http://localhost:8080/user-web-app/
 
-📌 Future Improvements
+**📌 Future Improvements**
 
 Add admin dashboard
 
